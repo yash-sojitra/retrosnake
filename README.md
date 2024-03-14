@@ -22,4 +22,4 @@ This is a classic snake game implemented in C++. The game is inspired by the leg
 3. open the main.cpp file and run as debug or press `f5` to run.
 
 ## Screenshots
-![screenshot of game](image.png)
+<img src="./image.png" width="40%">
